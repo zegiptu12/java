@@ -13,7 +13,7 @@ public class Test {
     public void processJsonStrings(String bookJson, String priceJson) {
         System.out.println(" ");
         System.out.println(" ");
-        System.out.println("Test");
+        System.out.println("Test z odstępnej klasygit add");
         System.out.println(" ");
         System.out.println(" ");
         System.out.println("Książka w JSON: " + bookJson);
