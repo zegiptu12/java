@@ -11,7 +11,13 @@ public class Test {
      * @param priceJson JSON dla ceny
      */
     public void processJsonStrings(String bookJson, String priceJson) {
-        System.out.println("Book JSON: " + bookJson);
-        System.out.println("Price JSON: " + priceJson);
+        System.out.println(" ");
+        System.out.println(" ");
+        System.out.println("Test");
+        System.out.println(" ");
+        System.out.println(" ");
+        System.out.println("Książka w JSON: " + bookJson);
+        System.out.println(" ");
+        System.out.println("Cena w JSON: " + priceJson);
     }
 }
