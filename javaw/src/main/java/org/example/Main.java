@@ -12,5 +12,9 @@ public class Main {
         System.out.println(priceJson);
         System.out.println(" ");
         System.out.println(bookJson);
+
+        Test test = new Test();
+        test.processJsonStrings(bookJson, priceJson);
     }
+
 }
